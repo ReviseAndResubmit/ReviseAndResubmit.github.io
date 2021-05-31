@@ -1,10 +1,10 @@
-baseURL: https://reviseandsubmit.github.io
+baseURL: https://example.com
 languageCode: en-us
 defaultContentLanguage: en
-title: Revise and Submit
-theme: "papercss-hugo-theme"
+title: PaperCSS
+theme: papercss-hugo-theme
 googleAnalytics: UA-123456789-1
-disqusShortname: ReviseAndSubmit
+disqusShortname: yourdiscussshortname
 
 privacy:
   disqus:
