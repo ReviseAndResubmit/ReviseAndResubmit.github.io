@@ -190,6 +190,10 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  [[menu.main]]
+    identifier = "sobre_nos"
+    name       = "Sobre Nos"
+    url        = "sobre_nos/"
 
 [markup]
   [markup.goldmark]

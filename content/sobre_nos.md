@@ -9,4 +9,4 @@ date: "2021-05-31"
 title: About
 ---
 
-Imma Fix this later
+Mira voy arreglar esto despues es que no queria el placeholder de Hugo aquí 
