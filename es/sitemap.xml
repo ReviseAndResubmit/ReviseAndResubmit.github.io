@@ -10,11 +10,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://reviseandsubmit.github.io/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="http://reviseandsubmit.github.io/es/categories/"
                 />
@@ -24,11 +19,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://reviseandsubmit.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://reviseandsubmit.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -53,11 +43,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://reviseandsubmit.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://reviseandsubmit.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
