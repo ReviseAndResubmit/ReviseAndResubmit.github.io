@@ -8,3 +8,96 @@ markup:
     renderer:
       unsafe: true
       
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+minify:
+  disableXML: true
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Search
+                  url: search.en/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: Categories
+                  url: categories/
+                  weight: 10
+
+    fr:
+        languageName: ":es:"
+        languageAltTitle: Spanish
+        weight: 2
+        title: En Español
+        profileMode:
+            enabled: true
+            title: Revisa y Somete
+            subtitle: "Dandole duro a la ciencia"
+            buttons:
+                - name: Blog
+                  url: posts
+                - name: Tags
+                  url: tags
+        menu:
+            main:
+                
+                - name: Tags
+                  url: tags
+                  weight: 10
+                - name: Categories
+                  url: categories
+                  weight: 10
+                - name: Busca
+                  url: search.es/
+                
+
+    es:
+        languagedirection: rtl
+        weight: 3
+        title: PaperMod RTL
+        homeInfoParams:
+            Title: "Hi there \U0001F44B"
+            Content: Welcome to RTL layout
+        menu:
+            main:
+                - name: Tags
+                  url: tags
+                  weight: 10
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    author: Theme PaperMod
+    # author: ["Me", "You"] # multiple authors
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowToc: true
+    
+    
+    
+    
+    
