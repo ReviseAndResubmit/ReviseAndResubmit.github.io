@@ -1,6 +1,6 @@
 ---
 Title: Acerca de
-date: '`r format(Sys.time(), "%d %B, %Y")`'
+date: "{{ post.date | date: "%Y-%m-%d" }}
 ---
 
 Pues tu sabe, aqui chillando goma
