@@ -34,45 +34,22 @@ languages:
                   url: categories/
                   weight: 10
 
-    fr:
-        languageName: ":es:"
+    es:
+        languageName: Español
         languageAltTitle: Spanish
         weight: 2
-        title: En Español
-        profileMode:
-            enabled: true
-            title: Revisa y Somete
-            subtitle: "Dandole duro a la ciencia"
-            buttons:
-                - name: Blog
-                  url: posts
-                - name: Tags
-                  url: tags
+        title: Revisa y Somete
         menu:
             main:
-                
-                - name: Tags
-                  url: tags
+                - name: Etiquetas
+                  url: etiquetas/
                   weight: 10
-                - name: Categories
-                  url: categories
+                - name: Categorias
+                  url: categorias/
                   weight: 10
                 - name: Busca
                   url: search.es/
                 
-
-    es:
-        languagedirection: rtl
-        weight: 3
-        title: PaperMod RTL
-        homeInfoParams:
-            Title: "Hi there \U0001F44B"
-            Content: Welcome to RTL layout
-        menu:
-            main:
-                - name: Tags
-                  url: tags
-                  weight: 10
 
 outputs:
     home:
