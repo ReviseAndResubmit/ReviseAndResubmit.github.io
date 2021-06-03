@@ -24,6 +24,8 @@ languages:
         weight: 1
         menu:
             main:
+                - name: About
+                  url: about
                 - name: Search
                   url: search.en/
                   weight: 10
@@ -33,6 +35,7 @@ languages:
                 - name: Categories
                   url: categories/
                   weight: 10
+          
 
     es:
         languageName: Español
@@ -41,6 +44,8 @@ languages:
         title: Revisa y Somete
         menu:
             main:
+                - name: Acerca de
+                  url: acerca
                 - name: Etiquetas
                   url: etiquetas/
                   weight: 10
@@ -58,22 +63,56 @@ outputs:
         - JSON
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
-    # author: ["Me", "You"] # multiple authors
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  author: Theme PaperMod
+  # author: ["Me", "You"] # multiple authors
+  
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  
+  homeInfoParams:
+  socialIcons:
+      - name: email
+        url: "reviseandsubmit@gmail.com"
+      - name: twitter
+        url: "https://ko-fi.com/adityatelange"
+      - name: RsS
+        url: "index.xml"    
 
-    defaultTheme: auto
-    # disableThemeToggle: true
-    ShowShareButtons: true
-    ShowReadingTime: true
-    # disableSpecial1stPost: true
-    displayFullLangName: true
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
-    ShowToc: true
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true  
     
+
     
     
     
