@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://reviseandsubmit.github.io/categories/</loc>
+    <loc>https://reviseandresubmit.github.io/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://reviseandsubmit.github.io/es/categories/"
+                href="https://reviseandresubmit.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://reviseandsubmit.github.io/categories/"
+                href="https://reviseandresubmit.github.io/categories/"
                 />
   </url><url>
-    <loc>http://reviseandsubmit.github.io/2020/12/01/hello-r-markdown/</loc>
+    <loc>https://reviseandresubmit.github.io/2020/12/01/hello-r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://reviseandsubmit.github.io/tags/plot/</loc>
+    <loc>https://reviseandresubmit.github.io/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://reviseandsubmit.github.io/post/</loc>
+    <loc>https://reviseandresubmit.github.io/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://reviseandsubmit.github.io/categories/r/</loc>
+    <loc>https://reviseandresubmit.github.io/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://reviseandsubmit.github.io/tags/r-markdown/</loc>
+    <loc>https://reviseandresubmit.github.io/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://reviseandsubmit.github.io/tags/regression/</loc>
+    <loc>https://reviseandresubmit.github.io/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://reviseandsubmit.github.io/</loc>
+    <loc>https://reviseandresubmit.github.io/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://reviseandsubmit.github.io/es/"
+                href="https://reviseandresubmit.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://reviseandsubmit.github.io/"
+                href="https://reviseandresubmit.github.io/"
                 />
   </url><url>
-    <loc>http://reviseandsubmit.github.io/tags/</loc>
+    <loc>https://reviseandresubmit.github.io/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://reviseandsubmit.github.io/es/tags/"
+                href="https://reviseandresubmit.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://reviseandsubmit.github.io/tags/"
+                href="https://reviseandresubmit.github.io/tags/"
                 />
   </url>
 </urlset>
