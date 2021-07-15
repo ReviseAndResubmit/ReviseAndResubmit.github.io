@@ -26,6 +26,18 @@
                 href="https://reviseandresubmit.github.io/es/"
                 />
   </url><url>
+    <loc>https://reviseandresubmit.github.io/es/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://reviseandresubmit.github.io/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://reviseandresubmit.github.io/es/search/"
+                />
+  </url><url>
     <loc>https://reviseandresubmit.github.io/es/tags/</loc>
     <xhtml:link
                 rel="alternate"

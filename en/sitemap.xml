@@ -62,5 +62,15 @@
     <loc>https://reviseandresubmit.github.io/about/</loc>
   </url><url>
     <loc>https://reviseandresubmit.github.io/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://reviseandresubmit.github.io/es/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://reviseandresubmit.github.io/search/"
+                />
   </url>
 </urlset>
