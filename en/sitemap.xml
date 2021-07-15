@@ -58,5 +58,9 @@
                 hreflang="en"
                 href="https://reviseandresubmit.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://reviseandresubmit.github.io/about/</loc>
+  </url><url>
+    <loc>https://reviseandresubmit.github.io/search/</loc>
   </url>
 </urlset>
