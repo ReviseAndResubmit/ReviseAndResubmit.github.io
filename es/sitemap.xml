@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://reviseandresubmit.github.io/es/categories/</loc>
+    <loc>https://reviseandsubmit.github.io/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://reviseandresubmit.github.io/categories/"
+                href="https://reviseandsubmit.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://reviseandresubmit.github.io/es/categories/"
+                href="https://reviseandsubmit.github.io/es/categories/"
                 />
   </url><url>
-    <loc>https://reviseandresubmit.github.io/es/</loc>
+    <loc>https://reviseandsubmit.github.io/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://reviseandresubmit.github.io/"
+                href="https://reviseandsubmit.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://reviseandresubmit.github.io/es/"
+                href="https://reviseandsubmit.github.io/es/"
                 />
   </url><url>
-    <loc>https://reviseandresubmit.github.io/es/search/</loc>
+    <loc>https://reviseandsubmit.github.io/es/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://reviseandresubmit.github.io/search/"
+                href="https://reviseandsubmit.github.io/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://reviseandresubmit.github.io/es/search/"
+                href="https://reviseandsubmit.github.io/es/search/"
                 />
   </url><url>
-    <loc>https://reviseandresubmit.github.io/es/tags/</loc>
+    <loc>https://reviseandsubmit.github.io/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://reviseandresubmit.github.io/tags/"
+                href="https://reviseandsubmit.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://reviseandresubmit.github.io/es/tags/"
+                href="https://reviseandsubmit.github.io/es/tags/"
                 />
   </url>
 </urlset>
