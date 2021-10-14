@@ -26,6 +26,19 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <description>The BlogIf you are an academic and you are out socializing, at some point at least one person is going to passionately go on a tirade about how scientific communication should be more accessible to non-scientific folk. Well this blog was made by two of those people. Here in Revise and Submit Sofía and Nadira take some of their ideas about how biology can be viewed in a tangible way and polish those ideas in to illustrated essay form.</description>
     </item>
     
+    <item>
+      <title>Acerca</title>
+      <link>https://reviseandsubmit.github.io/acerca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reviseandsubmit.github.io/acerca/</guid>
+      <description>El BlogLa GenteNadira Yusif Rodriguez:(She/Her/Ella)
+Twitter, Twitch
+Sofía Meléndez Cartagena:(She/Her/Ella)
+Twitter, Github
+</description>
+    </item>
+    
     
   </channel>
 </rss>
