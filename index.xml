@@ -4,19 +4,7 @@
     <title>Revise and Submit</title>
     <link>https://reviseandsubmit.github.io/</link>
     <description>Recent content on Revise and Submit</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://reviseandsubmit.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://reviseandsubmit.github.io/2020/12/01/hello-r-markdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://reviseandsubmit.github.io/2020/12/01/hello-r-markdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://reviseandsubmit.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://reviseandsubmit.github.io/about/</link>
@@ -25,20 +13,6 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <guid>https://reviseandsubmit.github.io/about/</guid>
       <description>The BlogIf you are an academic and you are out socializing, at some point at least one person is going to passionately go on a tirade about how scientific communication should be more accessible to non-scientific folk. Well this blog was made by two of those people. Here in Revise and Submit Sofía and Nadira take some of their ideas about how biology can be viewed in a tangible way and polish those ideas in to illustrated essay form.</description>
     </item>
-    
-    <item>
-      <title>Acerca</title>
-      <link>https://reviseandsubmit.github.io/acerca/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://reviseandsubmit.github.io/acerca/</guid>
-      <description>El BlogLa GenteNadira Yusif Rodriguez:(She/Her/Ella)
-Twitter, Twitch
-Sofía Meléndez Cartagena:(She/Her/Ella)
-Twitter, Github
-</description>
-    </item>
-    
     
     
   </channel>
