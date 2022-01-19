@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://reviseandsubmit.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://reviseandsubmit.github.io/es/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://reviseandsubmit.github.io/categories/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://reviseandsubmit.github.io/2020/12/01/hello-r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://reviseandsubmit.github.io/tags/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://reviseandsubmit.github.io/post/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://reviseandsubmit.github.io/categories/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://reviseandsubmit.github.io/tags/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://reviseandsubmit.github.io/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://reviseandsubmit.github.io/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://reviseandsubmit.github.io/tags/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://reviseandsubmit.github.io/about/</loc>
+  </url><url>
+    <loc>https://reviseandsubmit.github.io/acerca/</loc>
+  </url><url>
+    <loc>https://reviseandsubmit.github.io/search.es/</loc>
+  </url><url>
+    <loc>https://reviseandsubmit.github.io/search/</loc>
+  </url>
+</urlset>
