@@ -1,6 +1,6 @@
 theme: "hugo-PaperMod"
 baseURL: https://reviseandsubmit.github.io
-title: Revise and Submit
+title: Under Construction
 
 markup:
   goldmark:
@@ -49,7 +49,6 @@ params:
   profilemode:
         enabled: true
         imageURL: "Revise_And_Submit_Logo_v03.png"
-        subtitle: Under Construction Come back soon :D
         imageWidth: 160 # custom size
         imageHeight: 160 # custom size
   socialIcons:
