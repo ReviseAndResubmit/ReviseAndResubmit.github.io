@@ -49,8 +49,8 @@ params:
   profilemode:
         enabled: true
         imageURL: "Revise_And_Submit_Logo_v03.png"
-        title: "Under Construction"
-        subtitle: "Come back soon pliz :D"
+        title: Under Construction
+        subtitle: Come back soon pliz :D
         imageWidth: 160 # custom size
         imageHeight: 160 # custom size
   socialIcons:
